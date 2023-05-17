@@ -13,6 +13,9 @@ Proyecto creado para participar en el hackaton de mayo de 2023
 
 <a href="https://rogergibertrovira.github.io/rgr-hackathon-frontend/hackaton/filedroperror.html">Subida archivos error</a> <br>
 
+## Codefactor
+![image](https://github.com/rogergibertrovira/rgr-hackathon-frontend/assets/49531890/b1251bf0-78e6-4b0c-bf30-e95a9ac09258)
+
 
 ## Licencia
 
